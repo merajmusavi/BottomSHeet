@@ -2,4 +2,6 @@
     <string name="app_name">BottomSHeet</string>
     <string name="user_name">username</string>
     <string name="confirm">confirm</string>
+    <string name="password">password</string>
+    <string name="cancel">cancel</string>
 </resources>
